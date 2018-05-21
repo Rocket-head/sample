@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526934078 source:d:\programing\git-folder\sample-git\main.cpp
+	<iostream>
+
+1526934379 source:d:\programing\git-folder\sample-git\per.cpp
+	<iostream>
+
