@@ -32,7 +32,10 @@ unsigned int comi(unsigned int n ,unsigned int r)
 
 
 int mainper()
+
 {
+
+
    /* for(int i = 0 ;i <= 10 ;i++)
     {
 

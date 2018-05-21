@@ -1,10 +1,14 @@
 # depslib dependency file v1.0
-1526937995 source:d:\programing\git-folder\sample-git\main.cpp
+1526941822 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
-1526934379 source:d:\programing\git-folder\sample-git\per.cpp
+1526938880 source:d:\programing\git-folder\sample-git\nasted.cpp
+	<iostream>
+	<iomanip>
+
+1526940795 source:d:\programing\git-folder\sample-git\pass.cpp
 	<iostream>
 
-1526938581 source:d:\programing\git-folder\sample-git\nasted.cpp
+1526939963 source:d:\programing\git-folder\sample-git\per.cpp
 	<iostream>
 

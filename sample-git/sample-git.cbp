@@ -32,8 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="advfor.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="nasted.cpp" />
+		<Unit filename="pass.cpp" />
 		<Unit filename="per.cpp" />
 		<Extensions>
 			<code_completion />
