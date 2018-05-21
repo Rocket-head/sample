@@ -3,11 +3,22 @@
 using namespace std;
 int mainper();
 int nasted();
+int forloop();
+int mainpass();
 
 int main()
 {
     cout << "Hello world!" << endl;
+    <<<<<<< HEAD
     cout << "this is tutorial c++" << endl;
     //mainper();
+    //nasted();
+    forloop();
+    //mainpass();
+
+        cout << "hello git"  << endl;
+
+
     return 0;
+
 }
