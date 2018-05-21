@@ -37,6 +37,7 @@
 		<Unit filename="nasted.cpp" />
 		<Unit filename="pass.cpp" />
 		<Unit filename="per.cpp" />
+		<Unit filename="while.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
