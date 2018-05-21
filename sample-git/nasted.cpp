@@ -43,10 +43,11 @@ void printnumber(){
     }
 }
 
-void mutabletable(){
+void mutabletable(int num){
+
      for(int i = 1 ; i <= 12 ;i++){
-              for (int j = 2 ; j <= 5 ;j++){
-                cout << setw(3) << j << " * " <<setw(3)<<  i << " = " << setw(3) <<  j*i << endl;
+              for (int j = 2 ; j <= num ;j++){
+                cout << setw(3) << j << " * " <<setw(3)<<  i << " = " << setw(3) <<  j*i << " | ";
               }
               cout << endl;
      }
@@ -58,6 +59,6 @@ int nasted()
     //box();
     //box2(10,10) ;
     //printnumber();
-    mutabletable();
+    mutabletable(10);
     return 0;
 }
