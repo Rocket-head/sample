@@ -2,7 +2,8 @@
 
 using namespace std;
 
-void demo(int v , int &r){
+void demo(int v, int &r)
+{
     // parameter v : pass by value
     // parameter r : pass by reference
 

@@ -5,17 +5,22 @@ using namespace std;
 
 void box()
 {
-    for(int i = 1 ; i<= 10 ; i ++){
-        for(int j = 1 ;j <= 10 ;j++){
+    for(int i = 1 ; i<= 10 ; i ++)
+    {
+        for(int j = 1 ; j <= 10 ; j++)
+        {
             cout << "*" ;
         }
         cout << endl;
     }
 }
 
-void box2(int w ,int h){
-    for (int i = 1;i <= h ; i++ ){
-        for(int j = 1 ; j <= w ;j++){
+void box2(int w,int h)
+{
+    for (int i = 1; i <= h ; i++ )
+    {
+        for(int j = 1 ; j <= w ; j++)
+        {
             cout << "*" ;
         }
         cout << endl;
@@ -23,7 +28,8 @@ void box2(int w ,int h){
 
 }
 
-void printnumber(){
+void printnumber()
+{
     /* 1
     22
     333
@@ -31,26 +37,30 @@ void printnumber(){
     .
     999999999
     */
-    for(int i = 1 ; i<= 9 ;i++ ){
+    for(int i = 1 ; i<= 9 ; i++ )
+    {
 
-            for(int j = 1 ; j<= i ; j++)
-            {
+        for(int j = 1 ; j<= i ; j++)
+        {
 
-                cout << i ;
-            }
-             cout << endl;
+            cout << i ;
+        }
+        cout << endl;
 
     }
 }
 
-void mutabletable(int num){
+void mutabletable(int num)
+{
 
-     for(int i = 1 ; i <= 12 ;i++){
-              for (int j = 2 ; j <= num ;j++){
-                cout << setw(3) << j << " * " <<setw(3)<<  i << " = " << setw(3) <<  j*i << " | ";
-              }
-              cout << endl;
-     }
+    for(int i = 1 ; i <= 12 ; i++)
+    {
+        for (int j = 2 ; j <= num ; j++)
+        {
+            cout << setw(3) << j << " * " <<setw(3)<<  i << " = " << setw(3) <<  j*i << " | ";
+        }
+        cout << endl;
+    }
 }
 
 int nasted()
