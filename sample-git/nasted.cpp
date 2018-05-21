@@ -1,4 +1,5 @@
 #include<iostream>
+#include<iomanip>
 
 using namespace std;
 
@@ -40,9 +41,15 @@ void printnumber(){
              cout << endl;
 
     }
+}
 
-
-
+void mutabletable(){
+     for(int i = 1 ; i <= 12 ;i++){
+              for (int j = 2 ; j <= 5 ;j++){
+                cout << setw(3) << j << " * " <<setw(3)<<  i << " = " << setw(3) <<  j*i << endl;
+              }
+              cout << endl;
+     }
 }
 
 int nasted()
@@ -50,6 +57,7 @@ int nasted()
 {
     //box();
     //box2(10,10) ;
-    printnumber();
+    //printnumber();
+    mutabletable();
     return 0;
 }
