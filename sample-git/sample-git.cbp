@@ -37,6 +37,7 @@
 		<Unit filename="bodymass.cpp" />
 		<Unit filename="caltri.cpp" />
 		<Unit filename="findmemberinarray.cpp" />
+		<Unit filename="findvalueinarray.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="nasted.cpp" />
 		<Unit filename="pass.cpp" />
