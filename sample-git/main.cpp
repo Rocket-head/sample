@@ -7,6 +7,7 @@ int forloop();
 int mainpass();
 int mainwhile();
 int bodymass();
+int mainstruct();
 
 int main()
 {
@@ -20,7 +21,8 @@ int main()
     //=======
     cout << "hello git" << endl;
     //mainwhile();
-    bodymass();
+    //bodymass();
+    mainstruct();
     //>>>>>>> 8c944d30f0bb9078d0d5799fb06f7d360e233fac
     return 0;
 }
