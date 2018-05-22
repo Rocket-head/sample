@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1526979648 source:d:\programing\git-folder\sample-git\main.cpp
+1526981822 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
 1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
@@ -33,6 +33,9 @@
 	<iostream>
 	<cmath>
 
-1526980302 source:d:\programing\git-folder\sample-git\basicarray.cpp
+1526981809 source:d:\programing\git-folder\sample-git\basicarray.cpp
+	<iostream>
+
+1526981640 source:d:\programing\git-folder\sample-git\findmemberinarray.cpp
 	<iostream>
 

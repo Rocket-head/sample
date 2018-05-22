@@ -38,9 +38,7 @@ void initarray()
     char x[] {'x','e','s'};
     string  flower[] {"rose","tulip"};
     cout << flower[0]<<endl;
-
 }
-
 
 int mainarray()
 {
