@@ -1,20 +1,23 @@
 # depslib dependency file v1.0
-1526947939 source:d:\programing\git-folder\sample-git\main.cpp
+1526946601 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
-1526946226 source:d:\programing\git-folder\sample-git\nasted.cpp
+1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
 	<iostream>
 	<iomanip>
 
-1526946218 source:d:\programing\git-folder\sample-git\pass.cpp
+1526942618 source:d:\programing\git-folder\sample-git\pass.cpp
 	<iostream>
 
-1526946225 source:d:\programing\git-folder\sample-git\per.cpp
+1526942625 source:d:\programing\git-folder\sample-git\per.cpp
 	<iostream>
 
-1526947598 source:d:\programing\git-folder\sample-git\advfor.cpp
+1526943998 source:d:\programing\git-folder\sample-git\advfor.cpp
 	<iostream>
 
-1526947930 source:d:\programing\git-folder\sample-git\while.cpp
+1526944672 source:d:\programing\git-folder\sample-git\while.cpp
+	<iostream>
+
+1526969340 source:d:\programing\git-folder\sample-git\bodymass.cpp
 	<iostream>
 

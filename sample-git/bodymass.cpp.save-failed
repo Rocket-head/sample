@@ -27,25 +27,7 @@ string evalbmi(double bmi)
 double target(double height, double targetbmi)
 {
 
-    return height * height *targetbmi;
-}
-
-double targetweight(double bodymassindex,double height)
-{
-    if(bodymassindex < 18.5)
-    {
-        /* cout << "target weight = " << target(height,18.5)
-              <<endl;
-        */ return target(height,18.5);
-
-    }
-    else if(bodymassindex > 23)
-    {
-        /* cout << "target weight = " << target(height,23)
-              << endl;
-         */return target(height,23);
-    }
-
+    return (height * height )*targetbmi;
 }
 
 int bodymass()
@@ -61,18 +43,16 @@ int bodymass()
     // output
     cout << "BMI = " << bodymassindex << endl;
     cout << "BMI category = " <<   evalbmi02 << endl;
-    /* if(bodymassindex < 18.5)
-     {
-         cout << "target weight = " << target(height,18.5)
-              <<endl;
+    if(bodymassindex < 18.5)
+    {
+        cout << "target weight = " << target(height,bodymassindex)
+             <<endl;
 
-     }
-     else if(bodymassindex > 23)
-     {
-         cout << "target weight = " << target(height,23)
-              << endl;
-     }
-     */
-    cout << "target weight =" << targetweight(bodymassindex,height) <<endl;
+    }
+    else if(bodymassindex > 25)
+    {
+        cout << "target weight = " << target(weight,25)
+             << endl;
+    }
     return 0;
 }
