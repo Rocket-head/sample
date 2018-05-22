@@ -6,6 +6,7 @@ int nasted();
 int forloop();
 int mainpass();
 int mainwhile();
+int bodymass();
 
 int main()
 {
@@ -17,10 +18,9 @@ int main()
     //forloop();
     //mainpass();
     //=======
-    cout << "hello git"  << endl;
-    mainwhile();
-
+    cout << "hello git" << endl;
+    //mainwhile();
+    bodymass();
     //>>>>>>> 8c944d30f0bb9078d0d5799fb06f7d360e233fac
     return 0;
-
 }
