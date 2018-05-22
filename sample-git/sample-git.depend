@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1526973801 source:d:\programing\git-folder\sample-git\main.cpp
+1526979648 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
 1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
@@ -28,4 +28,11 @@
 1526973566 source:d:\programing\git-folder\sample-git\caltri.cpp
 	<iostream>
 	<cmath>
+
+1526979441 source:d:\programing\git-folder\sample-git\return2val.cpp
+	<iostream>
+	<cmath>
+
+1526980302 source:d:\programing\git-folder\sample-git\basicarray.cpp
+	<iostream>
 
