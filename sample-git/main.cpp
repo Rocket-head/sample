@@ -13,6 +13,7 @@ int mainreturn();
 int mainarray();
 int mainarraym() ;
 int mainfind();
+int mainzodiac();
 
 int main()
 {
@@ -32,7 +33,8 @@ int main()
     //mainreturn();
     //mainarray();
     //mainarraym();
-    mainfind();
+    //mainfind();
+     mainzodiac();
     //>>>>>>> 8c944d30f0bb9078d0d5799fb06f7d360e233fac
     return 0;
 }

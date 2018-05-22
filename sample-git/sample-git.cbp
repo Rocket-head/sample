@@ -45,6 +45,7 @@
 		<Unit filename="return2val.cpp" />
 		<Unit filename="struct.cpp" />
 		<Unit filename="while.cpp" />
+		<Unit filename="zodiac.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

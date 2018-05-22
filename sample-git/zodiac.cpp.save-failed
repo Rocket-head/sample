@@ -1,0 +1,74 @@
+ /**< chinese zodiac  year% 12 = 1 ...11
+    "Snake : 0" ,"Horse : 1","Goat : 2","Monkey : 3 ","Rooster : 4","Dog : 5",
+    "Pig : 6","Rat : 7","Ox : 8","Tiger : 9","Rabbit : 10     ",
+    "Dragon : 11",
+    */
+#include<iostream>
+
+using namespace std;
+
+/**< if  version  */
+string zodiac_if(int y)
+{
+    int r = y % 12;
+    if (r == 0)
+    {
+        return "snake";
+    }
+    else if (r == 1)
+    {
+        return "horse";
+    }
+    else if (r == 2)
+    {
+        return "goat";
+    }
+    else if (r == 3)
+    {
+        return "monkey";
+    }
+    else if (r == 4)
+    {
+        return "rooster";
+    }
+    else if (r == 5)
+    {
+        return "dog";
+    }
+    else if (r == 6)
+    {
+        return "pig";
+    }
+    else if (r == 7)
+    {
+        return "mouse";
+    }
+    else if (r == 8)
+    {
+        return "cow";
+    }
+    else if (r == 9)
+    {
+        return "tiger";
+    }
+    else if (r == 10)
+    {
+        return "rabbit";
+    }
+    else if (r == 11)
+    {
+        return "dragon";
+    }
+}
+
+int mainzodiac()
+{
+    for(int i = 2560 ; i < 2580 ; i++)
+    {
+        cout << i << " "<<zodiac_if(i) << endl;
+
+    }
+
+
+    return 0;
+}
