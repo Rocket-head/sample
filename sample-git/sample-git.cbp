@@ -46,6 +46,7 @@
 		<Unit filename="per.cpp" />
 		<Unit filename="return2val.cpp" />
 		<Unit filename="struct.cpp" />
+		<Unit filename="suffleinarray.cpp" />
 		<Unit filename="while.cpp" />
 		<Unit filename="zodiac.cpp" />
 		<Extensions>
