@@ -39,6 +39,7 @@
 		<Unit filename="findmemberinarray.cpp" />
 		<Unit filename="findvalueinarray.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="maparray.cpp" />
 		<Unit filename="nasted.cpp" />
 		<Unit filename="pass.cpp" />
 		<Unit filename="per.cpp" />

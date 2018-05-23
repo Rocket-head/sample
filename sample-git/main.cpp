@@ -14,6 +14,7 @@ int mainarray();
 int mainarraym() ;
 int mainfind();
 int mainzodiac();
+int mainGpa();
 
 int main()
 {
@@ -34,7 +35,8 @@ int main()
     //mainarray();
     //mainarraym();
     //mainfind();
-     mainzodiac();
+    // mainzodiac();
+    mainGpa();
     //>>>>>>> 8c944d30f0bb9078d0d5799fb06f7d360e233fac
     return 0;
 }
