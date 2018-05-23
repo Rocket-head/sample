@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1526984853 source:d:\programing\git-folder\sample-git\main.cpp
+1527055694 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
 1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
@@ -43,5 +43,11 @@
 	<iostream>
 
 1526985515 source:d:\programing\git-folder\sample-git\zodiac.cpp
+	<iostream>
+
+1527054990 source:d:\programing\git-folder\sample-git\maparray.cpp
+	<iostream>
+
+1527056454 source:d:\programing\git-folder\sample-git\natophonetec.cpp
 	<iostream>
 
