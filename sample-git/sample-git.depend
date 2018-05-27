@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1527434092 source:d:\programing\git-folder\sample-git\main.cpp
+1527434397 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
 1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
@@ -72,4 +72,9 @@
 1527434092 source:d:\programing\git-folder\sample-git\iterator.cpp
 	<iostream>
 	<vector>
+
+1527434397 source:d:\programing\git-folder\sample-git\station.cpp
+	<iostream>
+	<vector>
+	<algorithm>
 

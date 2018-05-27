@@ -21,6 +21,8 @@ int mainhidestring();
 int mainarray2dimen();
 int mainvector();
 int mainitr();
+int mainstation();
+
 
 int main()
 {
@@ -33,9 +35,11 @@ int main()
     //forloop();
     //mainpass();
     //=======
+
     cout << "hello git" << endl;
+    mainstation();
     //mainvector();
-    mainitr();
+    //mainitr();
     //mainarray2dimen();
     //mainhidestring();
     //mainwhile();
