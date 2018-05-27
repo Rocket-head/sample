@@ -51,6 +51,7 @@
 		<Unit filename="string.cpp" />
 		<Unit filename="struct.cpp" />
 		<Unit filename="suffleinarray.cpp" />
+		<Unit filename="vector.cpp" />
 		<Unit filename="while.cpp" />
 		<Unit filename="zodiac.cpp" />
 		<Extensions>

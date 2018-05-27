@@ -19,6 +19,7 @@ int mainnato();
 int mainstring();
 int mainhidestring();
 int mainarray2dimen();
+int mainvector();
 
 int main()
 {
@@ -32,7 +33,8 @@ int main()
     //mainpass();
     //=======
     cout << "hello git" << endl;
-    mainarray2dimen();
+    mainvector();
+    //mainarray2dimen();
     //mainhidestring();
     //mainwhile();
     //bodymass();

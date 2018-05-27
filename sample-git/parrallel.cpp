@@ -35,7 +35,7 @@ string letterGrade2(double score) {
         }
     }
 }
-int main() {
+int mainparallel() {
 //    cout << letterGrade(95) << endl;
     for (int i = 40; i < 101; ++i) {
         cout << "score = " << i << " grade = " << letterGrade2(i) << endl;
