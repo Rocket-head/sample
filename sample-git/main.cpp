@@ -17,9 +17,11 @@ int mainzodiac();
 int mainGpa();
 int mainnato();
 int mainstring();
+int mainhidestring();
 
 int main()
 {
+
     cout << "Hello world!" << endl;
     //<<<<<<< HEAD
     cout << "this is tutorial c++" << endl;
@@ -29,6 +31,7 @@ int main()
     //mainpass();
     //=======
     cout << "hello git" << endl;
+    mainhidestring();
     //mainwhile();
     //bodymass();
     //mainstruct();
@@ -40,7 +43,7 @@ int main()
     // mainzodiac();
     //mainGpa();
     //mainnato();
-    mainstring();
+    //mainstring();
     //>>>>>>> 8c944d30f0bb9078d0d5799fb06f7d360e233fac
     return 0;
 }
