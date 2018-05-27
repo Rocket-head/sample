@@ -44,6 +44,7 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="maparray.cpp" />
 		<Unit filename="nasted.cpp" />
+		<Unit filename="parrallel.cpp" />
 		<Unit filename="pass.cpp" />
 		<Unit filename="per.cpp" />
 		<Unit filename="return2val.cpp" />
