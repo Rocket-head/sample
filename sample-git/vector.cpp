@@ -43,7 +43,7 @@ void demoInit()
 //    }
     // range -- (Java, C# -> for each)
     cout << "vj = ";
-    for (int e : vj) // loop by add value in vj to e by index
+    for (int e : vj) // loop by add value in vj to e each index
     {
         cout << e << " ";
     }

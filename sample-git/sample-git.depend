@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1527419175 source:d:\programing\git-folder\sample-git\main.cpp
+1527434092 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
 1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
@@ -62,6 +62,14 @@
 1527419572 source:d:\programing\git-folder\sample-git\arrary2dimension.cpp
 	<iostream>
 
-1527433023 source:d:\programing\git-folder\sample-git\parrallel.cpp
+1527433493 source:d:\programing\git-folder\sample-git\parrallel.cpp
 	<iostream>
+
+1527434042 source:d:\programing\git-folder\sample-git\vector.cpp
+	<iostream>
+	<vector>
+
+1527434092 source:d:\programing\git-folder\sample-git\iterator.cpp
+	<iostream>
+	<vector>
 

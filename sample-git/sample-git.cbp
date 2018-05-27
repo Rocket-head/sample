@@ -41,6 +41,7 @@
 		<Unit filename="caltri.cpp" />
 		<Unit filename="findmemberinarray.cpp" />
 		<Unit filename="findvalueinarray.cpp" />
+		<Unit filename="iterator.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="maparray.cpp" />
 		<Unit filename="nasted.cpp" />
