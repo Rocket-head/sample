@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1527055694 source:d:\programing\git-folder\sample-git\main.cpp
+1527402974 source:d:\programing\git-folder\sample-git\main.cpp
 	<iostream>
 
 1526942626 source:d:\programing\git-folder\sample-git\nasted.cpp
@@ -50,4 +50,9 @@
 
 1527056454 source:d:\programing\git-folder\sample-git\natophonetec.cpp
 	<iostream>
+
+1527403191 source:d:\programing\git-folder\sample-git\string.cpp
+	<iostream>
+
+1527403023 source:d:\programing\git-folder\sample-git\suffleinarray.cpp
 
