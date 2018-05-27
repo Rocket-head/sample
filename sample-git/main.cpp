@@ -18,6 +18,7 @@ int mainGpa();
 int mainnato();
 int mainstring();
 int mainhidestring();
+int mainarray2dimen();
 
 int main()
 {
@@ -31,7 +32,8 @@ int main()
     //mainpass();
     //=======
     cout << "hello git" << endl;
-    mainhidestring();
+    mainarray2dimen();
+    //mainhidestring();
     //mainwhile();
     //bodymass();
     //mainstruct();
